@@ -66,7 +66,7 @@ Spam Brutal WhatsApp 24 jam non stop
 
 | **No Encrypt** |[✔️](https://github.com/AmmarrBN) |
 
-| **Subscribe** |[Here](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g) |
+| **Subscribe** |[Here](https://youtube.com/channel/AuliaRahmanOfficial123) |
 
 ---------
 
