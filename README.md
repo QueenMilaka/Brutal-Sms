@@ -92,7 +92,7 @@ Spam Brutal WhatsApp 24 jam non stop
 
 > SUBSCRIBE MY CHANNEL >_<
 
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia Rahman%20Official&color=green)](https://youtube.com/channel/AuliaRahmanOfficial123)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia%20Rahman%20Official&color=green)](https://youtube.com/channel/AuliaRahmanOfficial123)
 
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia Rahman%20Official&color=green)](https://youtube.com/channel/AuliaRahmanOfficial123)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia%20Rahman%20Official&color=green)](https://youtube.com/channel/AuliaRahmanOfficial123)
 
