@@ -58,15 +58,15 @@ Spam Brutal WhatsApp 24 jam non stop
 
 |--------|--------|
 
-| **24 Jam non stop** |[✔️](https://github.com/AmmarrBN) |
+| **24 Jam non stop** |[✔️]() |
 
-| **Brutal Spam** |[✔️](https://github.com/AmmarrBN) |
+| **Brutal Spam** |[✔️]() |
 
-| **Simple** |[✔️](https://github.com/AmmarrBN) |
+| **Simple** |[✔️]() |
 
-| **No Encrypt** |[✔️](https://github.com/AmmarrBN) |
+| **No Encrypt** |[✔️]() |
 
-| **Subscribe** |[Here](https://youtube.com/channel/AuliaRahmanOfficial123) |
+| **Subscribe** |[Here](https://youtube.com/AuliaRahmanOfficial123) |
 
 ---------
 
@@ -92,7 +92,7 @@ Spam Brutal WhatsApp 24 jam non stop
 
 > SUBSCRIBE MY CHANNEL >_<
 
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia%20Rahman%20Official&color=green)](https://youtube.com/channel/AuliaRahmanOfficial123)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia%20Rahman%20Official&color=green)](https://youtube.com/AuliaRahmanOfficial123)
 
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia%20Rahman%20Official&color=green)](https://youtube.com/channel/AuliaRahmanOfficial123)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Aulia%20Rahman%20Official&color=green)](https://youtube.com/AuliaRahmanOfficial123)
 
