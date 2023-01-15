@@ -18,13 +18,13 @@ Spam Brutal WhatsApp 24 jam non stop
 
   pkg install python
 
-  git clone https://github.com/AmmarrBN/Tools-WhatsApp
+  git clone https://github.com/QueenMilaka/Brutal-Sms
 
   bash install.sh
 
-  cd Tools-WhatsApp
+  cd Brutal-Sms
 
-  python main.py
+  python sms.py
 
   ```
 
